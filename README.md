@@ -1,4 +1,4 @@
-# WhiteHallProject
+# WhiteHall Company Project
 
 This repository provides intuitive stored procedures to help company WhiteHall implement an analytics system to tracks performance of salespeople, set sales quota and compensation levels for their employees based on the total amount sold YTD per salesperson per territory.
 

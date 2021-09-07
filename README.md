@@ -7,5 +7,4 @@ The management of WhiteHall Company wish to implement an analytics system due to
 The management has decided to track sales per salespeople per territory, quantity sold and set performance-based quota and compensations, to determine the salespeople's performance and to hire more workers if need be in order to meet customers' demand.
 
 In order not to impact the performance of WhiteHall Sale and Purchase Management System, data has been extracted into excel sheets to implement the analytics system that addresses the concerns of WhiteHall management.
-
-The budget has been approved by the Management to create an Operational Data Store and analytic environment that address the management concern.
+Budget has been approved by the Management to create an Operational Data Store and analytic environment that address the management concern.
